@@ -411,13 +411,13 @@ our @TESTCASES = (
                     # "ADQ_1411_Auto_MTP3_75",
                     # "ADQ_1411_Auto_MTP3_76",
                     # "ADQ_1411_Auto_MTP3_77",
-                    # "ADQ_1411_Auto_MTP3_78",
-                    # "ADQ_1411_Auto_MTP3_79",
-                    # "ADQ_1411_Auto_MTP3_80",
-                    # "ADQ_1411_Auto_MTP3_81",
-                    # "ADQ_1411_Auto_MTP3_82",
-                    # "ADQ_1411_Auto_MTP3_83",
-                    # "ADQ_1411_Auto_MTP3_84",
+                    "ADQ_1411_Auto_MTP3_78",
+                    "ADQ_1411_Auto_MTP3_79",
+                    "ADQ_1411_Auto_MTP3_80",
+                    "ADQ_1411_Auto_MTP3_81",
+                    "ADQ_1411_Auto_MTP3_82",
+                    "ADQ_1411_Auto_MTP3_83",
+                    "ADQ_1411_Auto_MTP3_84",
 
 				);
 				
